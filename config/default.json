@@ -1,0 +1,13 @@
+{
+    "app": {
+        "port": 5000
+    },
+    "mongo": {
+        "uri": "mongodb+srv://mevn:SlNQhECAygFj71iW@cluster0.k73bl.mongodb.net/mevn-app?retryWrites=true&w=majority",
+        "connectOptions": {
+            "useNewUrlParser": true,
+            "useUnifiedTopology": true,
+            "useCreateIndex": true
+        }
+    }
+}

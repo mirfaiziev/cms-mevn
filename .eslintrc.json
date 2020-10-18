@@ -1,0 +1,13 @@
+{
+    "plugins": [
+        "@vue"
+    ],
+    "extends": [
+        "eslint:recommended",
+        "plugin:vue/essential"
+    ],
+    "rules": {
+        "vue/require-v-for-key": false
+       // "vue/html-self-closing": "off"
+    }
+}
